@@ -235,7 +235,7 @@ version: { type: Number, default: 1, required: true }
 - Separate controllers, routes, and services for wizard workflow
 
 
-#### 4.4 Hybrid Vocabulary Selection
+#### 4.3 Hybrid Vocabulary Selection
 
 **Decision**: AI suggests vocabulary, teacher can modify
 
