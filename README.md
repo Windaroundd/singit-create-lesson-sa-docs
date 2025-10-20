@@ -442,7 +442,7 @@ Teacher          Frontend         API Gateway      Draft Service     Lesson Serv
    │─ Generate ────>│                  │                │                 │               │
    │   Lesson       │                  │                │                 │               │
    │                │                  │                │                 │               │
-   │                │── POST /lessonWizard/:id/generate ──────────────────────────────────────────────────────────>│               │
+   │                │── POST /lessonWizard/:id/generate ─────────────────>│               │
    │                │                  │                │                 │               │
    │                │                  │                │── Transform ───>│               │
    │                │                  │                │   wizardData    │               │
